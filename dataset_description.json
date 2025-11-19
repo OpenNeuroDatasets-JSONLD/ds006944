@@ -1,6 +1,5 @@
 {
     "Name": "One-person corticospinal fMRI dataset for Stanford Spinal Cord workshop 2025",
-    
     "BIDSVersion": "1.0.2",
     "Authors": [
         "V. Oliva",
@@ -17,6 +16,6 @@
     ],
     "EthicsApprovals": [
         "Stanford University’s Institutional Review Board"
-    ]
-
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006944.v1.0.0"
 }
